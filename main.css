@@ -9,9 +9,16 @@ body, height{
 body{
 width: 100%;
 
+
+ background: url(assets/IMAGE.jpg) repeat center ;
+background-attachment: fixed;
+
+
+
  background: url(assets/IMAGE.jpg) repeat center center;
 background-attachment: fixed;
  
+
 
  
  background-attachment: fixed;
@@ -99,4 +106,6 @@ button{
 		
 	}
 }
+	
+
 	
