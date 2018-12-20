@@ -8,7 +8,11 @@ body, height{
 }
 body{
 width: 100%;
+
  background: url(assets/IMAGE.jpg) no-repeat center;
+
+ background: url(assets/IMAGE.jpg) repeat center center;
+
  background-attachment: fixed;
 background-size: cover;
 }
