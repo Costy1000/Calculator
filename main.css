@@ -9,15 +9,13 @@ body, height{
 body{
 width: 100%;
 
-<<<<<<< HEAD
  background: url(assets/IMAGE.jpg) repeat center center;
 background-attachment: fixed;
-=======
  background: url(assets/IMAGE.jpg) no-repeat center;
 
  
  background-attachment: fixed;
->>>>>>> 3477340ce57e0536206c67464aa31b9a51636607
+
 background-size: cover;
 }
 
